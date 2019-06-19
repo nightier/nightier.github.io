@@ -14,7 +14,7 @@ links:
   - name:         Publications
     url:          /publications
     external:     false
-    - name:         About me
+  - name:         About me
     url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
